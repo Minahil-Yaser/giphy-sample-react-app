@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/giphy-sample-react-app/static/js/main.b2dff97d.js",
+    "main.js": "/giphy-sample-react-app/static/js/main.543ed4c4.js",
     "index.html": "/giphy-sample-react-app/index.html",
-    "main.b2dff97d.js.map": "/giphy-sample-react-app/static/js/main.b2dff97d.js.map"
+    "main.543ed4c4.js.map": "/giphy-sample-react-app/static/js/main.543ed4c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.b2dff97d.js"
+    "static/js/main.543ed4c4.js"
   ]
 }
